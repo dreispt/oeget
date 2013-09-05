@@ -1,8 +1,10 @@
 #Version,Name,URL
 
-#Neobis addons featuring a Timeline web widget,,
+# Neobis addons featuring a Timeline web widget,,
 7.0,neobis-addons,lp:neobis-addons/7.0
 
+# Add a "Viewer" level to the main applications of OpenERP
+7.0,openerp-viewer-groups,lp:openerp-viewer-groups/7.0
+6.1,openerp-viewer-groups,lp:openerp-viewer-groups/6.1
 
 #NO SERIES Projects,,
-7.0,openerp-viewer-groups,lp:openerp-viewer-groups/7.0
